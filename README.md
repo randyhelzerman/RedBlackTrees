@@ -1,2 +1,2 @@
 # RedBlackTrees
-Fun with red black trees and varients
+Fun with red black trees and variants
